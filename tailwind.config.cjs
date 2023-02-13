@@ -20,7 +20,11 @@ module.exports = {
 				solarized_violet:   "#6c71c4",
 				solarized_blue:     "#268bd2",
 				solarized_cyan:     "#2aa198",
-				solarized_green:    "#859900"
+				solarized_green:    "#859900",
+
+				// Matrix like theme
+				matrix_green: "#00E100",
+				matrix_black: "#000000"
 			}
 		},
 	},
