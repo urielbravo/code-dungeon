@@ -21,7 +21,9 @@ const { title } = Astro.props;
 	<body class="bg-matrix_black"> 
 		<TopBar />
 		<SideBar />
-		<slot />
+		<div class="absolute top-32 left-8 md:left-[22rem] right-8 text-matrix_green">
+			<slot />
+		</div>
 		<script src="../scripts/menu.js" />
 	</body>
 </html>
