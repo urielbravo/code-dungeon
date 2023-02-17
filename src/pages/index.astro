@@ -1,12 +1,13 @@
 ---
 import MainLayout from '../layouts/MainLayout.astro'; 
 import Card from '../components/Card.astro';
+import codeDungeonText from '../images/code_dungeon.gif'
 ---
 
 <MainLayout title="Code Dungeon">
-	<main class="bg-red-600 absolute top-32 left-8 md:left-[22rem] right-8">
-		<header>
-			<h1>Hola kito</h1>
+	<main class=" absolute top-32 left-8 md:left-[22rem] right-8">
+		<header class="flex flex-col items-center" >
+			<img src={codeDungeonText} alt="The main text of the code dungeon" />
 		</header>
 	</main>
 </MainLayout>
