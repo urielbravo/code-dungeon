@@ -1,8 +1,27 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
+import profile_pic from "../images/about/me.jpeg"
+import kito_1 from "../images/about/kito_1.jpeg"
+import kito_2 from "../images/about/kito_2.jpeg"
+import kito_3 from "../images/about/kito_3.jpeg"
 ---
 
 
 <MainLayout title="About Page">
-    <h1>About Page</h1>
+    <div class="flex flex-col items-center text-center text-xl">
+   <section class="flex flex-col items-center space-y-3 mb-10">
+    <h1>About me</h1>
+    <p>My name is Uriel and I'm a webmaster living in Mexico</p>
+    <img src={profile_pic} alt="my profile picture" class="w-52 h-52">
+   </section>
+
+   <section class="flex flex-col items-center space-y-3">
+     <h1>I have a dog, his name is kito, is a good friend</h1>   
+     <img src={kito_1} alt="Kito on his christmas suit" class="w-52 h-60">
+     <p>Sometimes we like to go for a run</p>
+     <img src={kito_2} alt="kito tired" class="w-96 h-52">
+     <p>But he gets tired very easily, so i let him rest once in a while</p>
+     <img src={kito_3} alt="kito ded xD" class="w-96 h-52">
+   </section>
+    </div>
 </MainLayout>
