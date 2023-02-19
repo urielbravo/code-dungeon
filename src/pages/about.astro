@@ -1,6 +1,6 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro";
-import profile_pic from "../images/about/me.jpeg"
+import about_me from "../images/about/me_2.jpg"
 import kito_1 from "../images/about/kito_1.jpeg"
 import kito_2 from "../images/about/kito_2.jpeg"
 import kito_3 from "../images/about/kito_3.jpeg"
@@ -10,10 +10,11 @@ import kito_3 from "../images/about/kito_3.jpeg"
 <MainLayout title="About Page">
   <div class="flex flex-col items-center text-center text-xl">
    <section class="flex flex-col items-center space-y-3 mb-10">
-    <h1>About me</h1>
     <p>My name is Uriel and I'm a webmaster living in Mexico</p>
-    <p>I like scary stuff and coding</p>
-    <img src={profile_pic} alt="my profile picture" class="w-52 h-52">
+    <p>I like scary stuff and coding, as you can see, im also a fan of the old school 90's web, and this website
+      is an homage to all of that 
+    </p>
+    <img src={about_me} alt="my profile picture" class="w-52 h-52">
    </section>
 
    <section class="flex flex-col items-center space-y-3 mb-5">
@@ -31,12 +32,13 @@ import kito_3 from "../images/about/kito_3.jpeg"
       <li>Pizza</li>
       <li>Hamburger</li>
       <li>Burros</li>
+      <li>I once went to a chinese restaurant because I was feeling a little adventurous, I ordered chicken, it was raw. Never again</li>
     </ul>
    </section>
    <section class="mb-16 items-center text-center flex flex-col space-y-3">
     <p>My Youtube channel</p>  
     <p>I have a Youtube channel that is called "Cuentos de la noche" (tales of the night) basically i tell scary stories, but i put effects and sounds to
-      make it scarier and more inmmersirve. You can check it out (it's in spanish though). Here is one episode
+      make it scarier and more immersive. You can check it out (it's in spanish though). Here is one episode
     </p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fdyfWpSErc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    </section>
