@@ -1,0 +1,27 @@
+---
+import ProfilePicture from "../images/about/me.jpeg"
+import githubIcon from "../images/profile/github.svg"
+import linkedIcon from "../images/profile/linkedin.svg"
+import resumeIcon from "../images/profile/resume.svg"
+
+import resumePdf from "../images/profile/resume.pdf"
+---
+
+<div class="flex flex-col items-center text-lg">
+    <img src={ProfilePicture} alt="My profile picture" class="rounded-full h-48 mb-3">
+    <p>Hello, my name is Uriel Bravo and I'm an electronics engineer that is now working as a web developer</p>
+    <p>I've have work experience on back and front end development, but for the las few years I've been working as a QA Automation Engineer</p>
+    <p>Here is my resume and some of my links:</p>
+    <div class="flex space-x-6">
+        <a href="https://github.com/urielbravo">
+            <img class="h-9 rounded-full" src={githubIcon} alt="link to my github">
+        </a>
+        <a href="https://www.linkedin.com/in/urielbravo/">
+            <img class="h-9" src={linkedIcon} alt="my linked in">
+        </a>
+        <a href={resumePdf}>
+            <img class="h-9" src={resumeIcon} alt="my resume">
+        </a>
+
+    </div>
+</div>
