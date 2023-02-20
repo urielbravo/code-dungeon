@@ -1,27 +1,35 @@
 ---
-import typeScriptIcon from "../images/techIcons/typescript.svg"
-import reactIcon from "../images/techIcons/react.svg"
-import bitbucketIcon from "../images/techIcons/bitbucket.svg"
+import { Icon } from "astro-icon"
+
+
+const techIcons = [
+    'typescript',
+    'react',
+    'bitbucket',
+    'bootstrap',
+    'django',
+    'git',
+    'javascript',
+    'jira',
+    'postgresql',
+    'python',
+    'robotframework',
+    'selenium',
+    'tailwindcss',
+    'testcafe',
+    'ionic',
+]
 ---
 
-<div class="flex flex-nowrap space-x-5">
-    <figure class="flex flex-col">
-        <figcaption>
-            Typescript
-        </figcaption> 
-        <img class="h-7" src={typeScriptIcon} alt="Typescript">
-    </figure>
-    <figure class="flex flex-col">
-        <figcaption>
-           React 
-        </figcaption> 
-        <img class="h-7" src={reactIcon} alt="react">
-    </figure>
-    <figure class="flex flex-col">
-        <figcaption>
-          Bitbucket 
-        </figcaption> 
-        <img class="h-7" src={bitbucketIcon} alt="bitbucket">
-    </figure>
-
+<div class="flex flex-wrap justify-between">
+    {techIcons.map(icon => {
+        return (
+            <figure class="flex flex-col m-5">
+                <figcaption>
+                    {icon}
+                </figcaption>
+                <Icon class="h-7" pack="simple-icons" name={icon} />
+            </figure>
+        )        
+    })}
 </div>

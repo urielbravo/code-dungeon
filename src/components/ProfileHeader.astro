@@ -1,4 +1,6 @@
 ---
+import { Icon } from 'astro-icon'
+
 import ProfilePicture from "../images/about/me.jpeg"
 import githubIcon from "../images/profile/github.svg"
 import linkedIcon from "../images/profile/linkedin.svg"
@@ -14,13 +16,13 @@ import resumePdf from "../images/profile/resume.pdf"
     <p>Here is my resume and some of my links:</p>
     <div class="flex space-x-6">
         <a href="https://github.com/urielbravo">
-            <img class="h-9 rounded-full" src={githubIcon} alt="link to my github">
+            <Icon class="h-9" pack="simple-icons" name="github" />
         </a>
         <a href="https://www.linkedin.com/in/urielbravo/">
-            <img class="h-9" src={linkedIcon} alt="my linked in">
+            <Icon class="h-9" pack="simple-icons" name="linkedin" />
         </a>
         <a href={resumePdf}>
-            <img class="h-9" src={resumeIcon} alt="my resume">
+            <Icon class="h-9" pack="simple-icons" name="linkedin" />
         </a>
 
     </div>
