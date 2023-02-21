@@ -1,12 +1,18 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro"
-import ProfileHeader from "../components/ProfileHeader.astro";
-import ProfileTech from "../components/ProfileTech.astro";
+import ProfileHeader from "../components/ProfileHeader.astro"
+import ProfileTech from "../components/ProfileTech.astro"
+import Card from "../components/Card.astro"
+
+import medicalImg from "../images/profile/medical.png"
+
 ---
 
 
 <MainLayout title="Professional Profile">
   <ProfileHeader />
-  <h1 class="my-8 text-xl">Tech I worked with in a professional manner:</h1>
+  <h1 class="my-8 text-xl">Tech I've worked with professionaly:</h1>
   <ProfileTech />
+  <h1 class="text-xl my-16">Some of my work:</h1>
+  <Card image={medicalImg} altText="Medical Manager" />
 </MainLayout>
