@@ -6,6 +6,7 @@ export interface Props {
 	altText: string
 	projectName: string
 	description: string
+	techUsed: string[]
 	link: string
 	linkType: ("repo" | "store" | "broken")
 	linkAltText: string
@@ -17,7 +18,7 @@ const linkIcon = {
     'broken': "skull"
 }
 
-const { image, altText, projectName, description, link, linkType, linkAltText } = Astro.props
+const { image, altText, projectName, description, techUsed, link, linkType, linkAltText } = Astro.props
 ---
 <div class="relative">
 	<div class="absolute -inset-0.5 opacity-75 bg-matrix_green rounded blur"></div>
@@ -25,17 +26,12 @@ const { image, altText, projectName, description, link, linkType, linkAltText } 
     	<img src={image} alt={altText} >	
     	<div class="px-6 py-4 mb-6">
     		<h1 class="text-xl mb-2">{projectName}</h1>	
-    		<p class="text-base">{description}</p>
+    		<p class="text-base mb-2">{description}</p>
+			<p>Tech: {techUsed.join(" | ")}</p>
     	</div>
-		<div class="px-6 pb-2 flex justify-around">
+		<div class="px-6 pb-2 flex justify-around items-end">
 			<p>Link:</p>
-			<a href={link}><Icon class="h-5" name={linkIcon[linkType]} /></a>
+			<a href={link}><Icon class="h-7" name={linkIcon[linkType]} /></a>
 		</div>
     </div>
 </div>
-
-<style lang="css">
-	[astro-icon] {
-		fill: #00E100;
-	}
-</style>
