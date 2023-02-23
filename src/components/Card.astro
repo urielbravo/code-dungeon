@@ -1,14 +1,41 @@
 ---
+import { Icon } from 'astro-icon'
+
 export interface Props {
 	image: string
 	altText: string
+	projectName: string
+	description: string
+	link: string
+	linkType: ("repo" | "store" | "broken")
+	linkAltText: string
 }
 
-const { image, altText } = Astro.props
+const linkIcon = {
+    'repo': "github",
+    'store': "googleplay",
+    'broken': "skull"
+}
+
+const { image, altText, projectName, description, link, linkType, linkAltText } = Astro.props
 ---
-<div>
-	<img src={image} alt={altText} >	
-	<div>
-		
-	</div>
+<div class="relative">
+	<div class="absolute -inset-0.5 opacity-75 bg-matrix_green rounded blur"></div>
+    <div class="relative max-w-sm rounded overflow-hidden bg-matrix_black">
+    	<img src={image} alt={altText} >	
+    	<div class="px-6 py-4 mb-6">
+    		<h1 class="text-xl mb-2">{projectName}</h1>	
+    		<p class="text-base">{description}</p>
+    	</div>
+		<div class="px-6 pb-2 flex justify-around">
+			<p>Link:</p>
+			<a href={link}><Icon class="h-5" name={linkIcon[linkType]} /></a>
+		</div>
+    </div>
 </div>
+
+<style lang="css">
+	[astro-icon] {
+		fill: #00E100;
+	}
+</style>
