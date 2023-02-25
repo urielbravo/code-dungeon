@@ -9,7 +9,6 @@ export interface Props {
 	techUsed: string[]
 	link: string
 	linkType: ("repo" | "store" | "broken")
-	linkAltText: string
 }
 
 const linkIcon = {
@@ -18,7 +17,7 @@ const linkIcon = {
     'broken': "skull"
 }
 
-const { image, altText, projectName, description, techUsed, link, linkType, linkAltText } = Astro.props
+const { image, altText, projectName, description, techUsed, link, linkType } = Astro.props
 ---
 <div class="relative max-w-sm">
 	<div class="absolute inset-0 opacity-75 bg-matrix_green rounded blur"></div>
