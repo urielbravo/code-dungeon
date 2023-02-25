@@ -5,6 +5,7 @@ import ProfileTech from "../components/ProfileTech.astro"
 import Card from "../components/Card.astro"
 
 import medicalImg from "../images/profile/medical.png"
+import codeDungeonImg from "../images/profile/code-dungeon.png"
 
 ---
 
@@ -14,14 +15,26 @@ import medicalImg from "../images/profile/medical.png"
   <h1 class="my-8 text-xl">Tech I've worked with professionaly:</h1>
   <ProfileTech />
   <h1 class="text-xl my-16">Some of my work:</h1>
-  <Card 
-    image={medicalImg} 
-    altText="Medical Manager" 
-    projectName="Medical Manager" 
-    description="A patient manager for a dentist" 
-    techUsed={["Django", "Bootstrap", "Postgresql"]}
-    link="https://github.com/urielbravo/medical_records"
-    linkType={"repo"}
-    linkAltText="Repository to the medical records project"
+  <section class="grid grid-cols-1 lg:grid-cols-2 gap-9 mb-10">
+    <Card 
+      image={medicalImg} 
+      altText="Medical Manager" 
+      projectName="Medical Manager" 
+      description="A patient manager for a dentist" 
+      techUsed={["Django", "Bootstrap", "Postgresql"]}
+      link="https://github.com/urielbravo/medical_records"
+      linkType={"repo"}
+      linkAltText="Repository to the medical records project"
+      />
+    <Card 
+      image={codeDungeonImg} 
+      altText="The code dungeon" 
+      projectName="The code dungeon" 
+      description="A blog/portfolio" 
+      techUsed={["Astro", "Tailwind", "Typescript"]}
+      link="https://github.com/urielbravo/code-lair"
+      linkType={"repo"}
+      linkAltText="Repository to the code dungeon project"
     />
+  </section>
 </MainLayout>
