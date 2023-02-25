@@ -1,0 +1,35 @@
+---
+import { Icon } from "astro-icon"
+
+
+const techIcons = [
+    'typescript',
+    'react',
+    'bitbucket',
+    'bootstrap',
+    'django',
+    'git',
+    'javascript',
+    'jira',
+    'postgresql',
+    'python',
+    'robotframework',
+    'selenium',
+    'tailwindcss',
+    'testcafe',
+    'ionic',
+]
+---
+
+<div class="flex flex-wrap justify-between">
+    {techIcons.map(icon => {
+        return (
+            <figure class="flex flex-col m-5">
+                <figcaption>
+                    {icon}
+                </figcaption>
+                <Icon class="h-7" name={icon} />
+            </figure>
+        )        
+    })}
+</div>

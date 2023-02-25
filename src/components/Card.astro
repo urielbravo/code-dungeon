@@ -1,62 +1,36 @@
 ---
+import { Icon } from 'astro-icon'
+
 export interface Props {
-	title: string;
-	body: string;
-	href: string;
+	image: string
+	altText: string
+	projectName: string
+	description: string
+	techUsed: string[]
+	link: string
+	linkType: ("repo" | "store" | "broken")
 }
 
-const { href, title, body } = Astro.props;
+const linkIcon = {
+    'repo': "github",
+    'store': "googleplay",
+    'broken': "skull"
+}
+
+const { image, altText, projectName, description, techUsed, link, linkType } = Astro.props
 ---
-
-<li class="link-card">
-	<a href={href}>
-		<h2>
-			{title}
-			<span>&rarr;</span>
-		</h2>
-		<p>
-			{body}
-		</p>
-	</a>
-</li>
-<style>
-	.link-card {
-		list-style: none;
-		display: flex;
-		padding: 0.15rem;
-		background-color: white;
-		background-image: var(--accent-gradient);
-		background-size: 400%;
-		border-radius: 0.5rem;
-		background-position: 100%;
-		transition: background-position 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-		box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -2px rgba(0, 0, 0, 0.1);
-	}
-
-	.link-card > a {
-		width: 100%;
-		text-decoration: none;
-		line-height: 1.4;
-		padding: 1rem 1.3rem;
-		border-radius: 0.35rem;
-		color: #111;
-		background-color: white;
-		opacity: 0.8;
-	}
-	h2 {
-		margin: 0;
-		font-size: 1.25rem;
-		transition: color 0.6s cubic-bezier(0.22, 1, 0.36, 1);
-	}
-	p {
-		margin-top: 0.5rem;
-		margin-bottom: 0;
-		color: #444;
-	}
-	.link-card:is(:hover, :focus-within) {
-		background-position: 0;
-	}
-	.link-card:is(:hover, :focus-within) h2 {
-		color: rgb(var(--accent));
-	}
-</style>
+<div class="relative max-w-sm">
+	<div class="absolute inset-0 opacity-75 bg-matrix_green rounded blur"></div>
+    <div class="relative h-full w-full rounded overflow-hidden bg-matrix_black flex flex-col justify-around">
+    	<img class="max-h-80 object-scale-down" src={image} alt={altText} >	
+    	<div class="px-6 py-4 mb-6">
+    		<h1 class="text-xl mb-2">{projectName}</h1>	
+    		<p class="text-base mb-2">{description}</p>
+			<p>Tech: {techUsed.join(" | ")}</p>
+    	</div>
+		<div class="px-6 pb-2 flex justify-around items-center">
+			<p>Link:</p>
+			<a href={link}><Icon class="h-7" name={linkIcon[linkType]} /></a>
+		</div>
+    </div>
+</div>

@@ -1,5 +1,6 @@
 ---
-import MainLayout from "../layouts/MainLayout.astro";
+import MainLayout from "../layouts/MainLayout.astro"
+import LinkItem from "../components/LinkItem.astro";
 ---
 
 <MainLayout title="Links">
@@ -8,30 +9,12 @@ import MainLayout from "../layouts/MainLayout.astro";
       <div>
          <h1 class="mb-5 space-y-3">resources so you can also create your own website</h1>
          <ul class="text-left">
-            <li>
-               <a class="text-matrix_green underline" href="https://gifcities.org/" target="_blank">gifcities.org</a>
-               - A bunch of gifs
-            </li>
-            <li>
-               <a class="text-matrix_green underline" href="https://compressor.io/" target="_blank">compressior.io</a>
-               - compress your images
-            </li>
-            <li>
-               <a class="text-matrix_green underline" href="https://www.cameronsworld.net/" target="_blank">cameronsworld.net</a>
-               - a pretty cool site with a los of resources 
-            </li>
-            <li>
-               <a class="text-matrix_green underline" href="https://www.photopea.com/" target="_blank">photopea.com</a>
-               - an online phothoshop a little basic but it doesn simple jobs very well 
-            </li>
-            <li>
-               <a class="text-matrix_green underline" href="https://neocities.org/browse" target="_blank">neocities.org</a>
-               - a bunch of geocities style sites  
-            </li>
-            <li>
-               <a class="text-matrix_green underline" href="https://www.happyhues.co/" target="_blank">happyhues.co</a>
-               - a place were you could get pallete colors for your site 
-            </li>
+            <LinkItem link="https://gifcities.org/" title="gifcities.org" description="A bunch of gifs" />
+            <LinkItem link="https://compressor.io/" title="compressor.io" description="Compress your images" />
+            <LinkItem link="https://www.cameronsworld.net/" title="cameronsworld.net" description="A pretty cool site with lots of resources" />
+            <LinkItem link="https://www.photopea.com/" title="photopea.com" description="an online photoshop, a little basci but does simple jobs very well" />
+            <LinkItem link="https://neocities.org/browse" title="neocities.org" description="A bunch of geocities style sites" />
+            <LinkItem link="https://www.happyhues.co/" title="happyhues.co" description="A place where you can get a pallete of colors for your site" />
          </ul>
       </div>
    </div>
