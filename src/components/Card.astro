@@ -22,7 +22,7 @@ const { image, altText, projectName, description, techUsed, link, linkType } = A
 <div class="relative max-w-sm">
 	<div class="absolute inset-0 opacity-75 bg-matrix_green rounded blur"></div>
     <div class="relative h-full w-full rounded overflow-hidden bg-matrix_black flex flex-col justify-around">
-    	<img src={image} alt={altText} >	
+    	<img class="max-h-80 object-scale-down" src={image} alt={altText} >	
     	<div class="px-6 py-4 mb-6">
     		<h1 class="text-xl mb-2">{projectName}</h1>	
     		<p class="text-base mb-2">{description}</p>
