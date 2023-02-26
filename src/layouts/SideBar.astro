@@ -1,8 +1,19 @@
 ---
-import NavLink from "../components/NavLink.astro";
+import NavLink from "../components/NavLink.astro"
+
+import amazingFreeStuff from "../images/sidebar/amazing_free_stuff.gif"
+import eyes from "../images/sidebar/best_viewed_with_eyes.gif"
+import bookmark from "../images/sidebar/bookmark_this_page.gif"
+import notepad from "../images/sidebar/built_with_microsoft_notepad.gif"
+import drpepper from "../images/sidebar/drpepper.gif"
+import gameboy from "../images/sidebar/gameboy_advance_net.gif"
+import neocities from "../images/sidebar/neocities_org.gif"
+import linux from "../images/sidebar/linuxnow.jpg"
+
+const buttons = [amazingFreeStuff, eyes, bookmark, notepad, drpepper, gameboy, neocities, linux]
 ---
 <!-- sidebar -->
-<div class="sidebar bg-matrix_black text-matrix_green w-80 space-y-6 px-2 py-2 transform -translate-x-full fixed top-16 bottom-0 left-0 md:translate-x-0 transition duration-200 ease-in-out z-10 border-r-2 border-matrix_green">
+<div class="sidebar flex flex-col justify-between bg-matrix_black text-matrix_green w-80  px-2 py-2 transform -translate-x-full fixed top-16 bottom-0 left-0 md:translate-x-0 transition duration-200 ease-in-out z-10 border-r-2 border-matrix_green">
     <nav>
       <NavLink name="Home" linkTo="/"/>
       <NavLink name="Blog" linkTo="/blog/"/>
@@ -10,4 +21,9 @@ import NavLink from "../components/NavLink.astro";
       <NavLink name="About me" linkTo="/about/"/>
       <NavLink name="Links" linkTo="/links" />
     </nav>
+    <div class="flex flex-wrap justify-center gap-2 mb-12">
+      {buttons.map(button => {
+        return <img src={button} alt={button} />
+      })}
+    </div>
   </div>
