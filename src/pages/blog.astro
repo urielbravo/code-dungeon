@@ -1,18 +1,28 @@
 ---
 import MainLayout from "../layouts/MainLayout.astro"
+import BlogPost from "../components/BlogPost.astro"
 
 import torch from "../images/blog/torch.gif"
 ---
 
 
 <MainLayout title="The Blog">
-    <div class="flex items-center">
+    <div class="flex items-center mb-32">
         <img src={torch} alt='torch'/>
         <div class="marquee w-96">
             <span class="text-4xl text-gruvboxTextColor">The blog</span>
         </div>
         <img src={torch} alt='torch' />
-  </div>
+    </div>
+    <div class="grid grid-cols-6 gap-4 w-full px-20">
+      <section class="col-span-4">
+        <BlogPost title="First Post" intro="Sometimes is good to have an intro that captures the main point of the post..." tags={["programming", "linux", "python"]}/>
+      </section>
+      <section class="col-span-2 text-center">
+        <span class="text-xl">Tags</span>
+      </section>
+    </div>
+    
 </MainLayout>
 
 <style>
