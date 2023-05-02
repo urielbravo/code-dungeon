@@ -1,8 +1,9 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro"
 import BlogPost from "../components/BlogPost.astro"
-
 import torch from "../images/blog/torch.gif"
+
+const allPosts = await Astro.glob('../pages/posts/*.md');
 ---
 
 
@@ -16,8 +17,7 @@ import torch from "../images/blog/torch.gif"
     </div>
     <div class="grid grid-cols-6 gap-4 w-full px-20">
       <section class="col-span-4">
-        <BlogPost title="First Post" intro="Sometimes is good to have an intro that captures the main point of the post..." tags={["programming", "linux", "python"]} postUrl="/posts/post-1"/>
-        <BlogPost title="First Post" intro="Sometimes is good to have an intro that captures the main point of the post..." tags={["programming", "linux", "python"]} postUrl="/posts/post-1"/>
+        {allPosts.map(post => <BlogPost title={post.frontmatter.title} intro={post.frontmatter.description} pubDate={post.frontmatter.pubDate} tags={post.frontmatter.tags} url={`${post.url}`} />)}
       </section>
       <section class="col-span-2 text-center">
         <span class="text-xl">Tags</span>
