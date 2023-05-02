@@ -2,16 +2,19 @@
 export interface Props {
 	title: string;
     intro: string;
+    postUrl: string; 
     tags: string[];
 }
 
-const { title, intro, tags } = Astro.props
+const { title, intro, postUrl, tags } = Astro.props
 ---
 
 
 <div class="flex flex-col space-y-2 mb-12">
-    <h1 class="text-3xl">{title}</h1>
-    <span>{intro}</span>
+    <a href={postUrl}> 
+        <h1 class="text-3xl">{title}</h1>
+        <span>{intro}</span>
+    </a>
     <div class="flex font-medium space-x-2">
         { tags.map(tag => <span class="border-matrix_green border-2 p-1">{tag}</span> )}
     </div>

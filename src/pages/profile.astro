@@ -1,5 +1,5 @@
 ---
-import MainLayout from "../layouts/MainLayout.astro"
+import BaseLayout from "../layouts/BaseLayout.astro"
 import ProfileHeader from "../components/ProfileHeader.astro"
 import ProfileTech from "../components/ProfileTech.astro"
 import Card from "../components/Card.astro"
@@ -7,7 +7,7 @@ import { projects } from "../scripts/projects"
 ---
 
 
-<MainLayout title="Professional Profile">
+<BaseLayout title="Professional Profile">
   <ProfileHeader />
   <h1 class="my-8 text-xl">Tech I've worked with professionaly:</h1>
   <ProfileTech />
@@ -29,4 +29,4 @@ import { projects } from "../scripts/projects"
       })
     }
   </section>
-</MainLayout>
+</BaseLayout>
