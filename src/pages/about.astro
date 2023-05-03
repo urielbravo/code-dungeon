@@ -1,5 +1,5 @@
 ---
-import MainLayout from "../layouts/MainLayout.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
 import about_me from "../images/about/me_2.jpg"
 import kito_1 from "../images/about/kito_1.jpeg"
 import kito_2 from "../images/about/kito_2.jpeg"
@@ -7,7 +7,7 @@ import kito_3 from "../images/about/kito_3.jpeg"
 ---
 
 
-<MainLayout title="About Page">
+<BaseLayout title="About Page">
   <div class="flex flex-col items-center text-center text-xl">
    <section class="flex flex-col items-center space-y-3 mb-10">
     <p>My name is Uriel and I'm a webmaster living in Mexico</p>
@@ -43,4 +43,4 @@ import kito_3 from "../images/about/kito_3.jpeg"
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fdyfWpSErc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
    </section>
     </div>
-</MainLayout>
+</BaseLayout>

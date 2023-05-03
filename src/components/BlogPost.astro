@@ -1,0 +1,23 @@
+---
+export interface Props {
+	title: string;
+    intro: string;
+    url: string; 
+    tags: string[];
+    pubDate: string
+}
+
+const { title, intro, url, tags, pubDate} = Astro.props
+---
+
+
+<div class="flex flex-col space-y-2 mb-12">
+    <a href={url} class="flex flex-col"> 
+        <h1 class="text-3xl">{title}</h1>
+        <span>{pubDate.slice(0,10)}</span>
+        <span>{intro}</span>
+    </a>
+    <div class="flex font-medium space-x-2">
+        { tags.map(tag => <span class="border-matrix_green border-2 p-1">{tag}</span> )}
+    </div>
+</div>

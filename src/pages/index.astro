@@ -1,11 +1,11 @@
 ---
-import MainLayout from '../layouts/MainLayout.astro'; 
+import BaseLayout from '../layouts/BaseLayout.astro'; 
 import codeDungeonText from '../images/code_dungeon.gif'
 import hauntedHouse from '../images/HauntedHouse.gif'
 import guyBird from '../images/guy_bird.gif'
 ---
 
-<MainLayout title="Code Dungeon">
+<BaseLayout title="Code Dungeon">
 		<header class="flex flex-col items-center" >
 			<img src={codeDungeonText} alt="The main text of the code dungeon" />
 			<h1 class="text-3xl my-10">Welcome to the best website of the internet!</h1>
@@ -14,4 +14,4 @@ import guyBird from '../images/guy_bird.gif'
 			<h1 class="text-3xl my-10">So prepare yourself, and enter...</h1>
 			<img class="h-52 w-52" src={guyBird} alt="guy walking with a bird in his back">
 		</header>
-</MainLayout>
+</BaseLayout>

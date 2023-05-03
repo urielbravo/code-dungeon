@@ -1,8 +1,44 @@
 ---
-import MainLayout from "../layouts/MainLayout.astro";
+import BaseLayout from "../layouts/BaseLayout.astro"
+import BlogPost from "../components/BlogPost.astro"
+import torch from "../images/blog/torch.gif"
+
+const allPosts = await Astro.glob('../pages/posts/*.md');
 ---
 
 
-<MainLayout title="The Blog">
-    <h1>This is the blog</h1>
-</MainLayout>
+<BaseLayout title="The Blog">
+    <div class="flex items-center mb-32">
+        <img src={torch} alt='torch'/>
+        <div class="marquee w-96">
+            <span class="text-4xl text-gruvboxTextColor">The blog</span>
+        </div>
+        <img src={torch} alt='torch' />
+    </div>
+    <div class="grid grid-cols-6 gap-4 w-full px-20">
+      <section class="col-span-4">
+        {allPosts.map(post => <BlogPost title={post.frontmatter.title} intro={post.frontmatter.description} pubDate={post.frontmatter.pubDate} tags={post.frontmatter.tags} url={`${post.url}`} />)}
+      </section>
+      <section class="col-span-2 text-center">
+        <span class="text-xl">Tags</span>
+      </section>
+    </div>
+    
+</BaseLayout>
+
+<style>
+  .marquee {
+  white-space: nowrap;
+  overflow: hidden;
+}
+.marquee span {
+  animation: animate 3s linear infinite;
+  display: inline-block;
+  padding-left: 100%;
+}
+@keyframes animate {
+  100% {
+    transform: translate(-100%, 0);
+  }
+}
+</style>
