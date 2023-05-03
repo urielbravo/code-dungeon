@@ -17,7 +17,7 @@ const { title, intro, url, tags, pubDate} = Astro.props
         <span>{pubDate.slice(0,10)}</span>
         <span>{intro}</span>
     </a>
-    <div class="flex font-medium space-x-2 text-sm">
+    <div class="flex font-medium space-x-2 text-xs">
         { tags.map(tag => <span class="border-matrix_green border-2 p-1">{tag}</span> )}
     </div>
 </div>
