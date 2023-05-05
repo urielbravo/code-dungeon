@@ -11,8 +11,8 @@ const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())]
 
 <BaseLayout title="The Blog">
     <Torch title="The Blog" />
-    <div class="grid grid-cols-6 gap-4 w-full px-20">
-      <section class="col-span-4">
+    <div class="grid grid-cols-6 gap-4 w-full md:px-20">
+      <section class="lg:col-span-4 col-span-6">
         {
           allPosts.map(post => <BlogPost 
             title={post.frontmatter.title} 
@@ -22,7 +22,7 @@ const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())]
             url={`${post.url}`} />)
         }
       </section>
-      <section class="col-span-2 text-center">
+      <section class="lg:col-span-2 col-span-6 text-center">
         <span class="text-xl">Tags</span>
         
         <div class="flex flex-wrap space-x-2">
