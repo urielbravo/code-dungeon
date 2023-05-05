@@ -1,0 +1,58 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro"
+import BlogPost from "../../components/BlogPost.astro"
+import Torch from "../../components/Torch.astro"
+import Tag from "../../components/Tag.astro"
+
+export async function getStaticPaths() {
+  const allPosts = await Astro.glob("../posts/*.md");
+
+  const uniqueTags = [
+    ...new Set(allPosts.map((post) => post.frontmatter.tags).flat()),
+  ];
+
+  return uniqueTags.map((tag) => {
+    const filteredPosts = allPosts.filter((post) =>
+      post.frontmatter.tags.includes(tag)
+    );
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+const allPosts = await Astro.glob('../posts/*.md');
+const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())]
+---
+
+
+<BaseLayout title={`${tag}`} >
+    <Torch title={`'${tag}' tag posts`} />
+    <div class="grid grid-cols-6 gap-4 w-full md:px-20">
+      <section class="lg:col-span-4 col-span-6">
+        {
+          posts.map((post: any) => <BlogPost 
+          url={`${post.url}`} 
+          title={post.frontmatter.title} 
+          intro={post.frontmatter.description} 
+          pubDate={post.frontmatter.pubDate} 
+          tags={post.frontmatter.tags} />)
+        }
+      </section>
+      <section class="lg:col-span-2 col-span-6 text-center">
+        <span class="text-xl mb-5">Tags</span>
+       <div class="flex flex-wrap space-x-2">
+          {
+            tags.map((tag) => (
+                <Tag tagName={tag} url={`/tags/${tag}`} />
+            ))
+          }
+        </div> 
+      </section>
+    </div>
+    
+</BaseLayout>

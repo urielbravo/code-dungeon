@@ -1,0 +1,10 @@
+---
+export interface Props {
+	tagName: string;
+    url: string;
+}
+
+const { tagName, url } = Astro.props;
+---
+
+<a href={url} class="border-matrix_green border-2 p-1 mb-2 hover:bg-matrix_green hover:text-matrix_black">{tagName}</a>
