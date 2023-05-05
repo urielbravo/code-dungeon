@@ -2,6 +2,7 @@
 import BaseLayout from "../../layouts/BaseLayout.astro"
 import BlogPost from "../../components/BlogPost.astro"
 import Torch from "../../components/Torch.astro"
+import Tag from "../../components/Tag.astro"
 
 export async function getStaticPaths() {
   const allPosts = await Astro.glob("../posts/*.md");
@@ -30,20 +31,27 @@ const tags = [...new Set(allPosts.map((post) => post.frontmatter.tags).flat())]
 
 
 <BaseLayout title={`${tag}`} >
-    <Torch title={`posts with the tag '${tag}'`} />
+    <Torch title={`'${tag}' tag posts`} />
     <div class="grid grid-cols-6 gap-4 w-full px-20">
       <section class="col-span-4">
-        {posts.map((post: any) => <BlogPost url={`${post.url}`} title={post.frontmatter.title} intro={post.frontmatter.description} pubDate={post.frontmatter.pubDate} tags={post.frontmatter.tags} />)}
+        {
+          posts.map((post: any) => <BlogPost 
+          url={`${post.url}`} 
+          title={post.frontmatter.title} 
+          intro={post.frontmatter.description} 
+          pubDate={post.frontmatter.pubDate} 
+          tags={post.frontmatter.tags} />)
+        }
       </section>
       <section class="col-span-2 text-center">
         <span class="text-xl mb-5">Tags</span>
-        {
-      tags.map((tag) => (
-        <p class="tag">
-          <a href={`/tags/${tag}`}>{tag}</a>
-        </p>
-      ))
-    }
+       <div class="flex flex-wrap space-x-2">
+          {
+            tags.map((tag) => (
+                <Tag tagName={tag} url={`/tags/${tag}`} />
+            ))
+          }
+        </div> 
       </section>
     </div>
     
