@@ -1,12 +1,12 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'My First Blog Post'
-pubDate: 2022-07-01
-description: 'This is the first post of my new Astro blog.'
+title: 'First of the blog'
+pubDate: 2023-05-08T22:14:56.694Z 
+description: 'First post ever.'
 image:
-    url: 'https://docs.astro.build/assets/full-logo-light.png' 
-    alt: 'The full Astro logo.'
-tags: ["astro", "blogging", "learning in public"]
+    url: 'https://u.cubeupload.com/uriel_codes/crablang.png' 
+    alt: 'A crab coding.'
+tags: ["blogging"]
 ---
 
 
