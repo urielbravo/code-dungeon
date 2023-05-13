@@ -25,8 +25,21 @@ module.exports = {
 				// Matrix like theme
 				matrix_green: "#00E100",
 				matrix_black: "#000000"
-			}
+			},
+			typography: ({ theme }) => ({
+				matrix: {
+					css: {
+						'--tw-prose-body': theme('colors.matrix_green'),
+						'--tw-prose-headings': theme('colors.matrix_green'),
+                        '--tw-prose-strong': theme('colors.matrix_green'),
+						'--tw-prose-counters': theme('colors.matrix_green'),
+						'--tw-prose-bullets': theme('colors.matrix_green'),
+					}
+				}	
+			})
 		},
 	},
-	plugins: [],
+	plugins: [
+		require('@tailwindcss/typography')
+	],
 }
