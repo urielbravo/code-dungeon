@@ -6,5 +6,8 @@ const { frontmatter } = Astro.props;
   <h1 class="text-3xl">{frontmatter.title}</h1>
   <p class="mb-5">{new Date(frontmatter.pubDate).toLocaleDateString(undefined, { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' })}</p>
   <img src={frontmatter.image.url} width="500" alt={frontmatter.image.alt} class="mb-20"/>
-  <slot />
+  <div class="mb-10 prose prose-matrix prose-strong:text-matrix_green">
+    <slot />
+  </div>
 </BaseLayout>
+
