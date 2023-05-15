@@ -10,7 +10,7 @@ tags: ["blogging"]
 ---
 
 
-# First post, introduction an objectives
+# First post, introduction and objectives
 
 So this is the first post, I don't have much to write so this should be quite short.
 
