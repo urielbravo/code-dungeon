@@ -14,7 +14,7 @@ tags: ["blogging"]
 
 So this is the first post, I don't have much to write so this should be quite short.
 
-I guess i could say something about this blog and this page in general, this is basically a blog/portfolio in hopes to get more visibility and and to be able to write just my general thoughts about everything.
+I guess i could say something about this blog and this page in general, this is basically a blog/portfolio in hopes to get more visibility and to be able to write just my general thoughts about everything.
 
 As you can see i love the 90's geocities style web pages, they are mostly simple, but with a lot of pictures and or gifs, i think the style is called brutalism or something (I'm not really sure), I love adding gifs and colors an animations and stuff, it goes well with my personality. obviously the site design is not finished but I figure I would just launch it, and keep improving it with time since I have some ideas already.
 
