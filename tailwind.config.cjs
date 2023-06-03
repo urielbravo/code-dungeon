@@ -34,6 +34,8 @@ module.exports = {
                         '--tw-prose-strong': theme('colors.matrix_green'),
 						'--tw-prose-counters': theme('colors.matrix_green'),
 						'--tw-prose-bullets': theme('colors.matrix_green'),
+						'--tw-prose-links': theme('colors.matrix_green'),
+						'--tw-prose-hr': theme('colors.matrix_green'),
 					}
 				}	
 			})
