@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'Aguien ha estado dejando notas en mi casa, estan empezando a asustarme'
+title: 'Alguien ha estado dejando notas en mi casa, estan empezando a asustarme'
 pubDate: 2023-07-04T22:09:26.140Z
 description: 'Historia sobre una personas que recibe notas misteriosas.'
 image:
@@ -11,7 +11,9 @@ tags: ["spanish", "cuentos"]
 
 Comenzaron lo suficientemente inocentes.
 
-*No olvides tus llaves*, decía el primer mensaje, escrito en una nota adhesiva con letras cursivas.
+*No olvides tus llaves.* 
+
+decía el primer mensaje, escrito en una nota adhesiva con letras cursivas.
 Había sido dejado en la puerta de mi nevera.
 
 Inmediatamente captó mi atención porque en ese momento vivía solo, no tenía ningún recuerdo de haberlo escrito y la letra no coincidía con la mía ni con la 
@@ -140,7 +142,7 @@ Me costaba controlar mi respiración mientras metía la nota de nuevo en mi bols
 También sentí papel en mi bolsillo izquierdo y, a pesar de que mi mente me gritaba que no lo hiciera, lo saqué, 
 dándome cuenta de que en realidad eran dos notas arrugadas juntas. Temblorosamente, desarrugué la primera nota.
 
-*NO COMAS EL SPAGHETTI. ESTÁ DROGADO.*
+*NO COMAS EL SPAGHETTI. ESTÁ ENVENENADO.*
 
 "¿Qué es eso, Gary?" preguntó Amanda detrás de mí.
 
