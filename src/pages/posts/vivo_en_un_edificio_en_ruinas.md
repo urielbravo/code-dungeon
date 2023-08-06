@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: 'He estado ocupando ilegalmente unos departamentos abandonados. Estas son las reglas que sigo para mantenerme vivo'
+title: 'He estado ocupando ilegalmente unos departamentos abandonados.'
 pubDate: 2023-08-05T01:40:55.855Z
 description: 'Vive en unos departamentos en abandonados, pero hay ciertas reglas que seguir'
 image:
