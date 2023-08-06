@@ -4,12 +4,12 @@ title: 'He estado ocupando ilegalmente unos departamentos abandonados.'
 pubDate: 2023-08-05T01:40:55.855Z
 description: 'Vive en unos departamentos en abandonados, pero hay ciertas reglas que seguir'
 image:
-    url: 'https://u.cubeupload.com/uriel_codes/notesdark.jpg' 
-    alt: 'Person writting a note.'
+    url: 'https://u.cubeupload.com/uriel_codes/abandonedapartment.jpg' 
+    alt: 'An abandoned building, decaying in the dark.'
 tags: ["spanish", "cuentos"]
 ---
 
-No soy sin techo.
+No soy un sin techo.
 
 Tengo un hogar. Simplemente no lo poseo. Pero es mío y trabajo para mantenerlo. Cada ciudad tiene su parte justa de edificios 
 abandonados para ocupar, pero normalmente tienes que lidiar con policías o vecinos molestos. El Edificio de Annedale no tiene ninguno de 
