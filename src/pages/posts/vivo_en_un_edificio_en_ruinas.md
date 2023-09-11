@@ -222,9 +222,8 @@ Aun así, podría ser peor. No todos los rituales terminan tan limpiamente y a v
 Si la gente quiere andar husmeando en las entrañas del universo, es su problema. Es una cosa si tengo que barrer lo que queda de ellos después, pero 
 al menos eso es un trabajo de una sola vez. A veces no es tan limpio. Un tipo se presentó y me dijo que sería un nuevo "residente", mi vecino, y que 
 nos conoceríamos. Un viejo torpe con acento de clase alta y la apariencia de un profesor que estaba pasando por malos tiempos. Se instaló en la 
-habitación junto a la mía y, sin importar cuánto le hablara poco, nunca entendió la indirecta y seguía tratando de comportarse como un buen amigo. 
-Las pocas veces que inicié una conversación fue para decirle que el lugar que había elegido no tenía mucha protección. Él señaló unas extrañas 
-erupciones y me dijo que eran su protección.
+habitación junto a la mía y, sin importar cuan poco le hablara, nunca entendió la indirecta y seguía tratando de comportarse como un buen amigo. 
+Las pocas veces que inicié una conversación fue para decirle que el lugar que había elegido no tenía mucha protección. Él señaló unas extrañas erupciones y me dijo que eran su protección.
 
 Durante las próximas semanas, me cruzaba con él de vez en cuando, siempre de rodillas, rascando algún rincón húmedo o montón de protuberancias con 
 moho. Coleccionaba hongos, me dijo el primer día, y a menudo lo veía pasando sus muestras a platos de Petri a los que susurraba palabras silenciosas 
@@ -237,3 +236,115 @@ Hacia el final, su sala de estar tenía hongos creciendo en las paredes. El yeso
 quedaba hormigón y barras de refuerzo, y aún así el moho seguía creciendo y prosperando. Un par de veces miré adentro y lo encontré alimentando carne 
 a los frondosos crecimientos que explotaban de los muebles viejos. Durante este tiempo, los símbolos en nuestra pared compartida a menudo se 
 calentaban, y me vi obligado a reemplazarlos casi a diario mientras él trabajaba al otro lado. Le pedí una o dos veces que se calmara.
+
+"Este es un trabajo importante", gruñó, una oscuridad invisible se colaba en su voz. "¡No soy algún drogadicto despistado tratando de invocar a Baphomet! No busco drogarme. Esto es ciencia. ¡Progreso! Eso es hacia lo que estoy trabajando."
+
+"Sí, bueno, tu progreso está tratando de abrirse paso hacia mi piso. ¿Puedes pedirle que pare?"
+
+Se detuvo, quedó congelado en medio de un gesto, como si hubiera dicho algo profundamente estúpido o perspicaz, o probablemente un poco de ambas cosas. Miró las erupciones en sus brazos que, en ese momento, habían comenzado a brotar con algunas de sus propias extrañas frutas. Cuando finalmente habló de nuevo, fue astuto, como un anciano lascivo proponiéndole algo a una enfermera.
+
+"Este hongo", dijo. "¡Tenían muestras de él en la universidad durante treinta años! ¿Te imaginas? Ni siquiera se dieron cuenta de lo que tenían hasta que lo encontré y desbloqueé su potencial. Ahora finalmente he encontrado la fuente y puedo hacer cosas que nadie más creía posibles. Durante todo este tiempo, mi tesis ha dependido de la idea de que el hongo tiene... una capacidad de procesamiento de información mucho mayor que cualquier cosa que hayamos considerado antes. Y tu idea es buena, ¿sabes? Preguntarle podría ser una opción..."
+
+Se alejó rápidamente sin decir otra palabra y durante los próximos días, se dedicó al edificio como una pequeña abeja furiosa en primavera. Investigaba y experimentaba, colocando trampa tras trampa y limpiándolas vigorosamente de cualquier rata o ratón que capturara. Cuando hacía mis recorridos matutinos, lo encontraba observando las últimas víctimas de Annedale, raspando lo que quedaba de ellas en bolsas transparentes para sus propios propósitos.
+
+"No me hagas caso", murmuraba. "Para ti no tiene valor, pero estas pobres almas podrían ayudarme a lograr grandes cosas".
+
+Esto continuó durante otro mes. Ya no rasgaba moho o setas de viejos apartamentos. Solo se interesaba por la carne, y para cuando todo terminó, puedo decir con confianza que nunca había olido algo peor que el olor picante y rancio que salía de debajo de su puerta cerrada con llave. Se volvió tan malo que empecé a preguntarme si tendría que pedir ayuda a la policía para que lo sacaran, cuando finalmente, simplemente desapareció de los pasillos de Annedale. Una mañana estaba allí, molestándome mientras bajaba frascos al sótano inundado, y luego, al día siguiente, había desaparecido y los pasillos de Annedale volvieron a estar en silencio.
+
+Pero eso no significaba que se hubiera mudado. En realidad, todo lo contrario.
+
+Pasaron dos días antes de que decidiera ir y simplemente romper su puerta. Le di una patada con un golpe corto y agudo, solo para descubrir que mi pierna desapareció inmediatamente en la madera que tenía la textura de cartón empapado. Liberé mi pie y probé una táctica diferente, agarrando el picaporte y tirando tan fuerte que simplemente se salió del podrido marco de madera. Liberada para moverse, la puerta se abrió con un crujido espeluznante y el aire fétido, caliente y húmedo, salió de la habitación.
+
+Dentro encontré que las muestras del hombre se habían vuelto salvajes. Los terrarios se habían roto, derramando su contenido hacia afuera. Sapos tan grandes como balones de fútbol me miraban desde detrás de hojas peludas, e insectos con ojos humanos se escabullían antes de que los anfibios pudieran atraparlos. En un rincón, las ratas habían construido una colmena con cartón viejo, sus espaldas cubiertas de crecimientos fúngicos que se asemejaban a dedos y otras extremidades humanas. En otro rincón, algo que parecía una lámina de goma negra golpeaba furiosamente a los roedores que pasaban, y me tomó unos segundos darme cuenta de que era un moho viscoso. Cuando finalmente atrapó algo, arrastró a la extraña criatura chillando hacia el rincón oscuro donde creció y se contrajo alrededor de su comida como un puño. Lo miré horrorizado hasta que, uno por uno, orbes negros se revelaron desde dentro de la extraña masa y me di cuenta de que tenía ojos que me miraban directamente.
+
+Era una cacofonía de terror espantoso, tan aterrador que me impedía escuchar el ruido amortiguado de un ser humano luchando por hablar. Eventualmente llegó a mis oídos y usé mi linterna para iluminar la pared lejana sin tener que entrar realmente.
+
+Encontré al científico medio fusionado con la pared. Algas y musgo lo cubrían de pies a cabeza, de modo que ya no era reconocible, pero tenía que asumir que no podía ser nadie más. Sus ojos abiertos me miraban con terror y dolor mientras pequeñas criaturas desagradables picoteaban lo que quedaba de sus espinillas, mientras extraños tentáculos exploraban sus oídos y cabeza sin descanso. Intentaba hablar, pero los crecimientos de algas seguían abriéndose paso en su boca hasta que, uno por uno, empujaron demasiado y algo se rompió. Sus ojos se abrieron aún más, sus chillidos se volvieron histéricos, y su mandíbula se deslizó lentamente hacia abajo hasta que cayó al suelo con un sonido húmedo.
+
+"¿Finalmente lograste hacer contacto?", pregunté. "Una idea terrible, si me preguntas. ¿Qué tendría que decir un hongo, incluso en las mejores circunstancias? Mucho menos uno que fue cultivado en las ruinas de Annedale. Supongo que nunca llegaste a decirle que se mantuviera alejado de mi pared, ¿verdad? No, probablemente tenías tus propias razones para hacer todo esto, y eso fue lo que tuvo prioridad".
+
+Eso me hizo preguntarme qué había pedido. Al tener esa idea en mente, di una rápida mirada alrededor y traté de ver si algo en particular me llamaba la atención. Algo estaba creciendo en el sofá y tenía una extraña forma humana. Podría haber sido solo mi imaginación, pero en la oscuridad parecía girarse hacia mí. Mientras tanto, el científico seguía temblando de agonía, sus ojos enfocados en mí, suplicando ayuda.
+
+"Veré qué puedo hacer", dije antes de cerrar la puerta. Algo en esa extraña pila en el sofá me había inquietado profundamente.
+
+Hice correr la voz, pedí un arma, pero en su lugar, unos días después, me trajeron una ballesta. Un joven nervioso de dieciséis años me la entregó en mi puerta. Me sorprendió que hubiera entrado al edificio, pero quién sabe quién le habría dado esa orden. He adquirido una extraña especie de respeto entre los lugareños y resulta útil. Ese chico parecía que cualquier otro día me habría golpeado en la cabeza y me habría robado, pero cuando me habló lo hizo con más respeto del que jamás imaginé merecer. Le agradecí, tomé la ballesta, pasé una tarde practicando con ella y luego la usé para matar al científico a la mañana siguiente.
+
+Tomó algunos disparos, pero al final uno golpeó su frente y silenció sus gemidos ahogados. Esta vez no vi nada en el sofá, al menos nada con forma humana, por lo que estaba agradecido. Después de eso, fue cuestión de llamar a la policía y comenzar una larga cadena de eventos que terminó con media docena de hombres con trajes de protección rociando la habitación con productos químicos nocivos. Por un tiempo, me preocupaba que encontraran un cadáver y me hicieran preguntas, pero cuando finalmente alguien entró en la habitación, no quedaba nada del científico, solo una mancha en el suelo.
+
+Nunca logré averiguar exactamente qué buscaba, aunque no es raro que en mi recorrido matutino encuentre un cuerpo (o parte de él) cubierto de crecimientos fúngicos. Y de vez en cuando, he visto fugazmente a una extraña persona bajándose al agua inundada del pozo del ascensor. Por supuesto, podría estar haciendo conexiones que en realidad no existen. Todo tipo de cosas viven en ese agua. Todo el nivel está inundado y si algo estuviera ahí abajo, tendría total libertad en un espacio bastante grande.
+
+Es un mundo extraño allá abajo. Debería saberlo debido a un visitante que me hizo pasar un mal momento. Lo llamaré el pescador porque vino a Annedale debido al sótano inundado. Vio una foto que ha estado circulando por un tiempo ahora, si sabes dónde buscar. Dios sabe quién la tomó y cómo, pero muestra el hueco de la escalera inundado que conduce al sótano y debajo de la superficie turbia hay una mano que está completamente fuera de proporción. Los dedos se extienden con una simetría perfecta como una estrella de mar, se está extendiendo desde las profundidades y descansando suavemente en el tercer escalón debajo del agua.
+
+Cuando lo conocí por primera vez, estaba sentado felizmente con los pies sobre el borde del pozo inundado, el agua le llegaba hasta las rodillas, con una caña de pescar y una línea instalada junto a él. Fue una gran sorpresa al principio verlo allí con un pequeño sombrero de pesca con mosca. Un hombre regordete pero de aspecto saludable en sus cuarenta años, con un sándwich de mayonesa y huevo en una mano y un teléfono jugando Candy Crush en la otra. Le grité cuando me acerqué porque, en mi experiencia, sorprender a alguien en Annedale es perjudicial para tu salud, sin importar lo cuerdo que parezca el visitante.
+
+Miró hacia arriba cuando llamé su atención y sonrió amablemente.
+
+"Hola", saludó con su sándwich en la mano. "¿Eres el cuidador?"
+
+"Sí, lo soy", respondí. "¿Y tú quién eres?"
+
+"Soy solo un turista", sonrió. "¿Te gustaría unirte a mí?"
+
+El sol acababa de salir hace unos momentos.
+
+"No estabas aquí cuando estaba oscuro, ¿verdad?" pregunté un tanto suspicaz.
+
+"Oh no, me has atrapado justo ahora, apenas llevaba diez minutos aquí antes de que aparecieras. Me dijeron que estarías dispuesto a ayudar a cambio de una pequeña tarifa".
+
+"¿Qué tipo de ayuda?" pregunté.
+
+"Oh, solo dame un toque si alguna de las líneas comienza a moverse", dijo mientras señalaba una caña que había colocado junto a las escaleras del sótano. La puerta estaba abierta y la línea conducía hacia abajo en la oscuridad, con el agua moviéndose suavemente fuera de la vista. Otra línea había sido instalada en una esquina del vestíbulo donde el suelo había sido arrancado, revelando un agujero directo hacia el sótano. "No puedo vigilarlas todas al mismo tiempo, ¿ves? Tengo campanillas preparadas, pero bueno, cuatro ojos ven más que dos".
+
+"¿Qué esperas atrapar exactamente allá abajo?" pregunté.
+
+"¿Estás familiarizado con el océano primordial?" dijo. "¿Las aguas abisales que Dios dividió en luz y oscuridad y todo eso? No es una ubicación física en sí, pero se conecta con ciertos cuerpos de agua dependiendo del tiempo y el lugar. La última manifestación registrada fue en un vaso de whiskey viejo debajo de un bar olvidado en la Ciudad de México. Un pobre tipo lo derramó y no se dio cuenta hasta el día siguiente cuando la mitad del bar de repente estaba bajo el agua. Se corrigió rápidamente, pero algunas de las cosas que nadaban en ese agua eran algo diferente, y todo provenía del fondo de un vaso no más ancho que mi muñeca. ¡Imagina lo que podemos hacer con esto!", dijo mientras hacía un gesto hacia el agua a sus pies.
+
+"¿Crees que podría haber peces vivos ahí abajo?" pregunté.
+
+"Al menos eso", respondió. "Estaría dispuesto a pagar por cualquier información confiable, por supuesto. ¿Tienes alguna idea de lo que podría haber allí abajo?"
+
+"No realmente", encogí los hombros. "Pero supongo que querrá que lo dejen en paz".
+
+"Hmmm, podrías tener razón", dijo mientras miraba sus otras cañas. "No puse precisamente cualquier señuelo, ¿sabes?"
+
+Metió la mano en el bolsillo y sacó un extraño manojo de pelo y marfil, sosteniéndolo para que lo examinara.
+
+"Un diente de un hombre que se ahogó en el mar. Un dron lo recogió de un naufragio cerca de la costa de Noruega. El pelo es en realidad algas rojas que se encontraron creciendo en sus huesos. Tengo muchos de estos y, bueno, otras cosas que podrían atraer a lo que está al otro lado. Mi investigación fue minuciosa y costosa. Vamos, toma asiento. Tarifa plana, mil dólares, solo siéntate aquí hasta que el sol comience a ponerse".
+
+"¿Solo tengo que sentarme?" pregunté.
+
+"Y avisarme si escuchas o ves algo".
+
+Gruñí y me senté a su lado, cruzando las piernas en lugar de dejarlas colgar en el agua de abajo. A pesar de mi reticencia, permanecimos así durante varias horas. Había traído mucha comida, cosas caseras deliciosas, junto con mucha cerveza fría. Nos sentamos allí y hablamos muy poco, pero comimos y bebimos enormemente. No es el tipo de cosa que hago normalmente, pero me estaban pagando por estar allí, y realmente no tenía ningún otro lugar adonde ir. Fue, en resumen, una tarde muy agradable.
+
+Hasta que me quedé dormido.
+
+Cuando desperté, lo hice con un terrible jadeo. Mi pecho estaba apretado como si algo hubiera estado sentado sobre él, y por el terrible risa y el sonido de pies corriendo hacia la oscuridad, podría no haber sido solo una sensación. El pánico ya se apoderaba de mí mientras mis ojos se dirigían hacia las puertas abiertas y vi que la luna estaba afuera y había estado fuera por horas. Busqué mi linterna y al encenderla vi que no había rastro del pescador. Dejó todas sus cosas detrás, pero todo lo que quedaba de él era su sombrero flotando todavía sobre el agua. Incluso mientras observaba, una suave y brillante figura se enrolló bajo el agua y lo arrancó de la superficie.
+
+Me replegué y me alejé de ello lo más rápido que pude. Esto era malo, sabía en lo profundo de mi corazón que nunca había estado en tanto peligro como en ese momento. Las puertas abiertas que conducían afuera eran tentadoras, pero justo al lado de ellas estaban las escaleras que llevaban hacia abajo y juré que podía escuchar algo acercándose. No pude evitar imaginar al hombre fúngico que había visto en el apartamento del científico. Por otro lado, ese sótano era enorme y quién sabe qué había allí.
+
+Decidí ir por las escaleras. Todo el tiempo mi corazón latía fuertemente. Nunca había sido sorprendido fuera de mi habitación por la noche, no desde mi primera noche cuando dormí en el vestíbulo con mi abrigo cubriéndome. No tienes suerte dos veces, no con Annedale, así que sabía que debía tener cuidado. Debía ser silencioso. Mi única esperanza era pasar desapercibido. Me volví sigiloso, subiendo cada piso en perfecto silencio, escondiéndome en lugares conocidos ante el menor indicio de pasos, humanos o de otra naturaleza.
+
+Annedale cobra vida por la noche. Murmullos susurrados de extraños niños que descienden de las rejillas de ventilación, viviendo allí, Dios sabe por cuánto tiempo. Otras veces vi apariciones, incluyendo una, una niña pequeña, cuya vista hizo que mi estómago gruñera de un hambre insaciable que dolía solo de contemplarlo. Ella me miró con ojos suplicantes mientras me alejaba de su puerta abierta. Tal vez habría sido tentado a ayudarla si no fuera por la vista de la luna que se asomaba a través de su imagen translúcida.
+
+Y sin embargo, a pesar de todo esto, de alguna manera logré llegar al piso catorce con vida. Solo que fue allí, justo en el último obstáculo, tan cerca de la seguridad, donde me encontré con algo de mi peor pesadilla.
+
+Una mujer estaba afuera de la puerta de mi apartamento. Silente. Pálida. Uñas cubiertas de tierra. Con frecuencia, abría mi puerta y encontraba huellas fangosas en el suelo hechas por los pies descalzos de una mujer. Ahora sabía quién las dejaba todas las noches. No podía ver su rostro desde donde me escondía, pero algo en ella me pareció profundamente familiar.
+
+Cuando finalmente se volvió hacia mí, lo recordé. La reconocí, aunque le faltaba la mayor parte de su rostro. Era la esposa del filósofo. Al parecer, él había tenido éxito. Pero no podía imaginar a qué terrible precio, porque la mujer que me miraba claramente había pasado algunos años en la tumba. Solo la pobre iluminación y su larga melena habían ocultado lo mal que estaba. Una sonrisa sin labios me devolvía la mirada debajo de pómulos hundidos y cavidades oculares huecas. Y sin embargo, pude notar que en otra vida ella había sido hermosa, lo que solo hizo que la visión fuera aún más desgarradora.
+
+"Mi amor", susurró, y había algo en su voz que me resultaba difícil de mantener cuerdo. No sé por qué. Más de una década en ese lugar y había sido testigo de pesadillas vivientes, pero fue este cadáver ambulante el que me empujó a mis límites. El ineludible sentimiento de pérdida me abrumó y sin darme cuenta me vi dando pasos hacia ella, incluso cuando mis rodillas se doblaban. Cuando finalmente llegué a ella, me arrastré hasta que pude aferrar su pierna helada y sucia, y eso fue lo último que recuerdo antes de despertar en mi cama a la mañana siguiente.
+
+Todo parecía normal, tan mundano que podría haberlo descartado como una pesadilla. Pero había huellas que iban desde mi cama hasta la puerta. Y más tarde encontré las cosas del pescador tal como las dejó, aunque cuando finalmente recogí sus líneas, encontré que los señuelos habían desaparecido y fueron reemplazados con partes del hombre que los había colocado originalmente. Tiré todo al agua debajo y decidí que sería mejor olvidarlo.
+
+De vez en cuando, por supuesto, no puedo evitar mirar por la mirilla por la noche. Nunca lo hacía antes, pero ahora lo hago. La veo cada vez. Parece triste. Me duele pensar en ella afuera. Debería ser aterrador, pero es más como si alguien me hubiera arrancado el estómago y el corazón y dejado que todas mis entrañas cayeran al suelo.
+
+Cada vez que la veo, me pregunto qué fue exactamente lo que él hizo para recuperarla.
+
+Solo deja una pista. Una carta final, supongo. No es como si las hubiera estado citando. En ella, él dice que daría todo para tenerla entre sus brazos una vez más. No solo su vida, sino todo lo que ya ha vivido. Cada puesta de sol. Cada buen sueño. Cada pesadilla. Cada victoria. Cada derrota. Cada pequeño recuerdo que lo hace ser quien es, lo daría todo solo para salvarla.
+
+A veces me pregunto sobre él, imaginando que probablemente tendríamos más o menos la misma edad. Me gustaría pensar y imaginar cómo habría sido para nosotros dos encontrarnos de jóvenes, pero por alguna razón, cada vez que intento recordar cómo era mi vida antes de venir a esta ciudad, antes de despertar con ese abrigo sobre mí... bueno, no lo sé...
+
+Es simplemente difícil, eso es todo.
+
+Es como si casi no hubiera nada ahí. Como si algo entrara y se llevara todos los años. Supongo que es una de esas cosas en las que es mejor no pensar demasiado.
