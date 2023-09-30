@@ -2,7 +2,7 @@
 layout: ../../layouts/MarkdownPostLayout.astro
 title: 'Porque tu eres mi bebe'
 pubDate: 2023-09-11T00:00:39.878Z
-description: 'Historia de una adre'
+description: 'Historia de una madre'
 image:
     url: 'https://u.cubeupload.com/uriel_codes/mother.jpg' 
     alt: 'A siloutte of a woman in the night sky.'
