@@ -10,7 +10,7 @@ tags: ["spanish", "cuentos"]
 ---
 Mi madre tenia los dientes mas hermosos.
 
-Sus dientes son mi primer recuerdo. Los recuerdo: largos y blancos, mostrados en una sonrisa ferocidad bajo la brillante luz de la luna mientras me contaba una historia. No un cuento de hadas ni un libro de imágenes, sino mi historia. La historia de cómo había venido a ella... o más bien, cómo ella había venido a mí.
+Sus dientes son mi primer recuerdo. Los recuerdo: largos y blancos, mostrados en una sonrisa feroz, bajo la brillante luz de la luna mientras me contaba una historia. No un cuento de hadas ni un libro de imágenes, sino mi historia. La historia de cómo había venido a ella... o más bien, cómo ella había venido a mí.
 
 Cuando era muy pequeño, demasiado pequeño para recordar nada en absoluto, mi madre me robó de un hombre y me llevó a vivir al bosque. No me robó por amor, sino por venganza. Aunque yo estaba desesperado por saberlo, nunca me dijo por qué necesitaba vengarse.
 
@@ -24,7 +24,7 @@ Mi madre era una cazadora excepcional. Derribaba alces y osos con facilidad. A v
 
 Dado que la caza le resultaba tan fácil, madre esperaba que yo aprendiera rápidamente. "Los hombres cazan", siseaba. "Siempre han cazado. Y tú también lo harás".
 
-Pero no podía cazar. No como ella. Mis pequeños y suaves dedos no eran rival para sus garras letales. Mi torpe cuerpecito, de alguna manera tan susceptible tanto al calor como al frío, seguía tras su forma de depredador con forma de látigo. Madre atrapaba ciervos y zorros con sus hermosos dientes, atacando desde las sombras como una serpiente. En contraste, mis aburridos dientes ni siquiera podían aplastar los huesos de un conejo.
+Pero no podía cazar. No como ella. Mis pequeños y suaves dedos no eran rival para sus garras letales. Mi torpe cuerpo, - de alguna manera tan susceptible tanto al calor como al frío - seguía tras su forma de depredador con forma de látigo. Madre atrapaba ciervos y zorros con sus hermosos dientes, atacando desde las sombras como una serpiente. En contraste, mis desafilados dientes ni siquiera podían aplastar los huesos de un conejo.
 
 Persistí, pero no mejoré. Una noche, mientras madre se deslizaba entre las sombras, comunicándose con los árboles y evitando las oscuras criaturas que merodeaban en la noche, me acurruqué y lloré.
 
@@ -32,7 +32,7 @@ Me encontró así, débil y llorando. Me tapé los ojos y contuve la respiració
 
 Madre se quedó allí durante mucho tiempo. Luego se acercó sigilosamente y me cubrió con hojas frescas antes de acostarse a mi lado. "Siempre te alimentaré", susurró. "Porque eres mi bebé".
 
-Además de la caza, mi madre era una fenomenal creadora de refugios. A veces vivía bajo tierra, serpenteando a través de la tierra y las raíces de los árboles como los dragones guardadores de tesoros de antaño.
+Además de la caza, mi madre era una fenomenal creadora de refugios. A veces vivía bajo tierra, serpenteando a través de la tierra y las raíces de los árboles como los dragones guardianes de tesoros de antaño.
 
 A veces vivía en los árboles. Muchas noches la observaba con asombro mientras sus huesos se alargaban y rompían su áspera piel, estirándose hacia arriba para enroscarse entre las ramas como una antigua diosa araña. Esperaría pacientemente, a veces durante horas, mientras madre se comunicaba con los espíritus enterrados en las raíces.
 
@@ -44,7 +44,7 @@ Así que intentó enseñarme a vivir entre las ramas de los árboles, a descansa
 
 Entonces madre intentó enseñarme a vivir en las sombras. Pero la oscuridad me aterraba. Cada noche, me escondía y lloraba, imaginando las patas de los ciempiés arrastrándose sobre mi piel. Todas las criaturas de la noche se deleitaban con mi miedo; los búhos se abalanzaban para burlarse de mí y los murciélagos se lanzaban hacia mí como torpedos, riendo en sus agudas voces chillonas hasta que madre los abatía del cielo de un golpe.
 
-Finalmente, madre se dio cuenta de la futilidad de esas lecciones. Así que cavó una madriguera profunda solo para mí. La revistió con hojas y se relamió las lombrices y cucarachas de las paredes. Cuando terminó, rompí en llanto.
+Finalmente, madre se dio cuenta de la futilidad de esas lecciones. Así que cavó una madriguera profunda solo para mí. La revistió con hojas y se comio las lombrices y cucarachas de las paredes. Cuando terminó, rompí en llanto.
 
 "¿Por qué lloras?" susurró.
 
@@ -56,9 +56,9 @@ Madre no siempre vivía en la madriguera conmigo. Recorría las montañas. Excav
 
 Cuando era muy pequeño, pensaba que se comía el bosque. Pero no era tan simple; ella lo protegía, y a cambio, él la sostenía. "Mi corazón", me dijo en una noche lluviosa, "es el bosque, así que así debe ser".
 
-Conforme crecí, desarrollé habilidades rudimentarias de supervivencia. Evitaba cazar grandes presas: alces y ciervos, osos y jabalíes, porque no protegía el bosque. No le daba nada; solo tomaba, así que tomaba lo menos posible. Atrapaba conejos, pescaba en los arroyos y comía bayas silvestres. No me atrevía a tomar nada más.
+Conforme crecí, desarrollé habilidades rudimentarias de supervivencia. Evitaba cazar grandes presas - alces y ciervos, osos y jabalíes - porque no protegía el bosque. No le daba nada; solo tomaba, así que tomaba lo menos posible. Atrapaba conejos, pescaba en los arroyos y comía bayas silvestres. No me atrevía a tomar nada más.
 
-Una vez que pude alimentarme de manera confiable, madre se alejó durante largos periodos. Horas, luego días, y finalmente semanas. La extrañaba terriblemente, con un profundo dolor de angustia.
+Una vez que pude alimentarme de manera confiable, madre se alejó durante largos periodos. Horas, luego días, y finalmente semanas. La extrañaba terriblemente, con un profundo dolor y angustia.
 
 La confronté al respecto en una cálida tarde de primavera. "Te alejas cada vez más", la acusé. "Pronto me dejarás para siempre".
 
@@ -66,15 +66,15 @@ La confronté al respecto en una cálida tarde de primavera. "Te alejas cada vez
 
 "Pero lo haces", grité. "¡Ya lo haces!"
 
-"Antes de que llegaras, vivía entre los árboles, escuchando sus advertencias. Dormía en la cálida tierra mientras gusanos y ciempiés mordisqueaban mi piel. Pasé muchas de tus vidas dentro del bosque, pequeño, tantas vidas a la vez que olvidé mi propio nombre. No te dejo. He dejado el bosque por ti".
+"Antes de que llegaras, vivía entre los árboles, escuchando sus advertencias. Dormía en la cálida tierra mientras gusanos y ciempiés mordisqueaban mi piel. Pasé muchas de tus vidas dentro del bosque, pequeño mio, tantas vidas que hasta olvidé mi propio nombre. Yo no te dejo. Yo he dejado el bosque por ti".
 
 "No vine aquí", sollozé. "¡Me trajiste!"
 
-"Así es", dijo. "Así que nunca te dejaré. Cuando creas que me he ido, silénciate y escucha. Escucha por mí de la misma manera que yo escucho a los árboles, los animales y las estrellas. Si te mantienes en silencio y eres sincero, me oirás".
+"Así es", dijo. "Así que nunca te dejaré. Cuando creas que me he ido, guarda silencio y escucha. Escucha por mí de la misma manera que yo escucho a los árboles, los animales y las estrellas. Si te mantienes en silencio y eres sincero, me oirás".
 
 Y luego se fue.
 
-La furia y los celos quemaron mi corazón como un incendio forestal. Me insultó, me humilló y, después de todo eso, me dejó. Me dejó por los ciempiés, los lobos y los estúpidos murciélagos chispeantes.
+La furia y los celos quemaron mi corazón como un incendio forestal. Me insultó, me humilló y, después de todo eso, me dejó. Me dejó por los ciempiés, los lobos y los estúpidos murciélagos chirriantes.
 
 "¡No te necesito!" grité. Un búho respondió con un graznido enojado. "¡No te necesito en absoluto!"
 
@@ -82,7 +82,7 @@ Luego corrí hacia mi madriguera. Mientras la puerta de tierra se materializaba 
 
 Así que me alejé de la madriguera y seguí corriendo. Encontraré el final del bosque, decidí. Lo dejaré de una vez por todas.
 
-Corrí durante días, tratando al bosque con desprecio en el proceso. Despojé a los árboles de sus hojas para hacer camas nocturnas. Tiré piedras a los pájaros y conejos. Arranqué arbustos y despojé de sus bayas a grupos enteros, comiendo hasta vomitar por el exceso. Luego volví a comer. No por hambre, no por necesidad, sino por malicia.
+Corrí durante días, tratando al bosque con desprecio en el proceso. Despojé a los árboles de sus hojas para hacer camas nocturnas. Tiré piedras a los pájaros y conejos. Arranqué arbustos y los despojé de sus bayas a grupos enteros, comiendo hasta vomitar por el exceso. Luego volví a comer. No por hambre, no por necesidad, sino por malicia.
 
 Y un día, mucho después de que la primavera cediera al verano en una explosión verde de calor y vegetación, escuché voces.
 
@@ -106,7 +106,7 @@ Me levanté, impulsado por la emoción nerviosa, y me acerqué. Todos a la vez, 
 
 En ese momento, me di cuenta de algo: el bosque estaba en silencio. Algunos pájaros cantaban y algunos insectos emitían su persistente zumbido. Pero la gran mayoría, pájaros, insectos, árboles, estaban en silencio. Sin conejos, sin ciervos, ciertamente sin osos. Estas cosas, estas criaturas como yo, estos hombres, habían silenciado la tierra.
 
-Habían robado el bosque a sí mismo.
+Habían robado el bosque de sí mismo.
 
 Nos miramos el uno al otro durante mucho tiempo, mientras el calor del verano en constante aumento llenaba el claro como una piscina invisible.
 
@@ -198,23 +198,23 @@ Madre fue una vez una joven y hermosa mujer humana.
 
 "Escucha!" dijo ella. 
 
-La madre estaba sola en el mundo. No tenía familia ni amigos. Una vez tuvo una familia, pero le hicieron mucho daño, así que huyó. Vivía en el bosque, en una tienda pequeña y raída. Comía bayas silvestres, pescaba en el lago y hervía agua para beber.
+Madre estaba sola en el mundo. No tenía familia ni amigos. Una vez tuvo una familia, pero le hicieron mucho daño, así que huyó. Vivía en el bosque, en una tienda pequeña y raída. Comía bayas silvestres, pescaba en el lago y hervía agua para beber.
 
-Las leyes son cosas extrañas. Aunque la madre no lastimaba a nada ni a nadie, estaba quebrantando la ley al vivir en el bosque. La encontraron, la atraparon y la encarcelaron. Separada de los árboles y los pájaros, la madre se desvaneció rápidamente. Aunque solo estuvo en prisión por un corto tiempo, casi la mató. El día en que fue liberada fue el mejor día de su vida...
+Las leyes son cosas extrañas. Aunque madre no lastimaba a nada ni a nadie, estaba quebrantando la ley al vivir en el bosque. La encontraron, la atraparon y la encarcelaron. Separada de los árboles y los pájaros, madre se desvaneció rápidamente. Aunque solo estuvo en prisión por un corto tiempo, casi la mató. El día en que fue liberada fue el mejor día de su vida...
 
 O eso pensó.
 
-Apenas la madre reunió sus escasas pertenencias y salió de la cárcel, un guardia se acercó a su lado. "¿A dónde te diriges?" preguntó. "Te llevaré a donde quieras ir".
+Apenas madre reunió sus escasas pertenencias y salió de la cárcel, un guardia se acercó a su lado. "¿A dónde te diriges?" preguntó. "Te llevaré a donde quieras ir".
 
-La madre estaba extasiada. "Llévame de vuelta al bosque", dijo. El guardia accedió, conduciéndola hacia el bosque. Excepto que se detuvo demasiado pronto. Se detuvo en una casa. Su casa, resultó ser.
+Madre estaba extasiada. "Llévame de vuelta al bosque", dijo. El guardia accedió, conduciéndola hacia el bosque. Excepto que se detuvo demasiado pronto. Se detuvo en una casa. Su casa, resultó ser.
 
-El guardia era un hombre terrible. Atrapó a la madre. La lastimó, la torturó, la abusó de todas las formas posibles. La cortó, la quemó, le quebró los huesos.
+El guardia era un hombre terrible. Atrapó a madre. La lastimó, la torturó, la abusó de todas las formas posibles. La cortó, la quemó, le quebró los huesos.
 
-Y le puso un bebé. La madre estaba tan quebrantada que pasó por alto todas las señales del inminente parto. Cuando llegué, la madre murió.
+Y puso un bebé dentro de ella. Madre estaba tan quebrantada que el hombre pasó por alto todas las señales del inminente parto. Cuando llegué, madre murió.
 
-"Me arrojó en una cuba de ácido", me contó la madre, "y esparció mis restos líquidos entre los árboles. Pero luego te oí". La madre sonrió débilmente. Trozos de tierra y raíces caían de su rostro. "Oí tu llanto. Tu necesidad de mí".
+"Me arrojó en una cuba de ácido", me contó madre, "y esparció mis restos líquidos entre los árboles. Pero luego te oí". Madre sonrió débilmente. Trozos de tierra y raíces caían de su rostro. "Oí tu llanto. Tu necesidad de mí".
 
-No entiendo lo que la madre dijo a continuación; es difícil de traducir. Pero lo más parecido que puedo expresar es esto. Todos cantan una canción a quienes aman. La mayoría no puede escuchar estas canciones. Si no puedes escucharlas, no pueden ayudarte. Pero si puedes escucharla, una canción es lo más poderoso en el mundo. Mata. Llama. Consuma. Destruye. Fortalece.
+No entiendo lo que madre dijo a continuación; es difícil de traducir. Pero lo más parecido que puedo expresar es esto. Todos cantan una canción a quienes aman. La mayoría no puede escuchar estas canciones. Si no puedes escucharlas, no pueden ayudarte. Pero si puedes escucharla, una canción es lo más poderoso en el mundo. Mata. Llama. Consuma. Destruye. Fortalece.
 
 Y a veces, resucita.
 
@@ -222,35 +222,35 @@ Y a veces, resucita.
 
 Lloré en silencio, porque no sabía qué decir.
 
-"Debo irme", dijo."Los árboles y los animales me necesitan ahora. Así que recuerda, pequeño/a. Cuando estés en silencio y seas sincero/a, me escucharás."
+"Debo irme", dijo."Los árboles y los animales me necesitan ahora. Así que recuerda, pequeño. Cuando estés en silencio y seas sincero, me escucharás."
 
 Luego, se dio la vuelta, como un lobo, una serpiente y un halcón combinados, y se fue.
 
 No regresó.
 
-Al principio, no le di importancia. Había causado un gran desorden; había convocado a hombres. Había hecho que el bosque sangrara. Mamá tenía mucho trabajo por delante.
+Al principio, no le di importancia. Había causado un gran desorden; había atraido a hombres. Había hecho que el bosque sangrara. Mamá tenía mucho trabajo por delante.
 
 Pero el verano se desvaneció lentamente en otoño, y aún mamá no regresaba. Cuando llegó la primera nevada, seca y fría, esparciéndose por el paisaje como polvo, supe que algo estaba mal.
 
-Las nevadas se profundizaron. El bosque se sumió en su sueño invernal, envuelto en hielo y niebla. Cada noche, me volvía silencioso. Reunía toda la sinceridad que podía. Y escuchaba la voz de mamá.
+Las nevadas se hicieron mas profundas. El bosque se sumió en su sueño invernal, envuelto en hielo y niebla. Cada noche, me volvía silencioso. Reunía toda la sinceridad que podía. Y trataba de escuchar la voz de mamá.
 
 Pero no venía.
 
-Me volví delgado/a y enfermo/a. Mi piel ardía incluso cuando temblaba. Mi pecho se congestionaba, mi garganta tan dolorida que no podía dormir. Mi aliento venía en sibilancias agudas y dolorosas. Pronto me volví demasiado débil para salir de la madriguera. Me arrastré hasta la entrada y comí nieve. Para sustento, sorbí gusanos de las paredes terrosas.
+Me volví delgado y enfermo. Mi piel ardía incluso cuando temblaba. Mi pecho se congestionaba, mi garganta tan dolorida que no podía dormir. Mi aliento venía en sibilancias agudas y dolorosas. Pronto me volví demasiado débil para salir de la madriguera. Me arrastré hasta la entrada y comí nieve. Para sustento, sorbí gusanos de las paredes terrosas.
 
 No era suficiente, y lo sabía.
 
-Solo entonces, en el silencio y la paz y el temor de la muerte que se acercaba, me volví verdaderamente silencioso/a. Solo entonces escuché la voz de mamá.
+Solo entonces, en el silencio y la paz y el temor de la muerte que se acercaba, me volví verdaderamente silencioso. Solo entonces escuché la voz de mamá.
 
 La escuché en mis sueños: la voz baja y apresurada como música convertida en agua. Estoy llegando, dijo. Estoy llegando, porque eres mi bebé.
 
 Sonreí y dormí.
 
-Lo siguiente que supe, estaba frío. Frío y mojado y temblando, pero despierto. Me levanté y grité cuando mi piel rozó el grueso manto de flores de mi madre. Di un giro, sonriendo, y me quedé helado/a.
+Lo siguiente que supe, es que estaba frío. Frío y mojado y temblando, pero despierto. Me levanté y grité cuando mi piel rozó el grueso manto de flores de mi madre. Di un giro, sonriendo, y me quedé helado.
 
 Mamá estaba junto a mí, jadeando. La sangre se filtraba de cien heridas, cubriendo su cabello. Los huesos expuestos de su rostro estaban aplastados y hundidos, goteando sangre. Sin abrir los ojos, sonrió. "Te escuché. Escuché tu canción."
 
-Las lágrimas empañaron mi visión. Mi pecho comenzó a jadear. No podía respirar; era como si estuviera enfermo/a de nuevo, ahogándome en pus y líquido atrapado. Pero esta vez no estaba muriendo.
+Las lágrimas empañaron mi visión. Mi pecho comenzó a jadear. No podía respirar; era como si estuviera enfermo de nuevo, ahogándome en pus y líquido atrapado. Pero esta vez no estaba muriendo.
 
 "Mi madre si lo estaba".
 
@@ -260,7 +260,7 @@ Las lágrimas empañaron mi visión. Mi pecho comenzó a jadear. No podía respi
 
 "Te necesito. Mamá, te necesito".
 
-"No", dijo. "Mataré a todos los que te harían daño".
+"No", dijo. "Maté a todos los que te harían daño".
 
 "Pero ¿qué pasa con el bosque? El bosque me matará sin ti".
 
@@ -272,9 +272,9 @@ Me acosté junto a ella durante muchos días. Luego, cuando empezó a oler mal, 
 
 Cuando aprendí a hablar las palabras de los hombres, las autoridades no perdieron tiempo en decirme que mi madre no era realmente mi madre.
 
-Descubrieron mi identidad (al menos en cierto sentido) a través del ADN. Dicen que mi verdadera madre era una vagabunda. Una Jane Doe que vivía en una tienda de campaña en el parque nacional. Estaba sola y desprotegida, dos cosas que atraen a monstruos humanos. Después de un breve período en la cárcel por merodear, mi madre terminó secuestrada, encarcelada y torturada por un asaltante aún no identificado que finalmente intentó sin éxito disolverla en ácido. Creen que él también intentó disolver mi cuerpo. Por eso tengo cicatrices. Es por eso que asusté a esos cazadores hace mucho tiempo: las quemaduras de ácido me hacen parecer un monstruo para los hombres.
+Descubrieron mi identidad (al menos en cierto sentido) a través del ADN. Dicen que mi verdadera madre era una vagabunda. Una fulana de tal que vivía en una tienda de campaña en el parque nacional. Estaba sola y desprotegida, dos cosas que atraen a monstruos humanos. Después de un breve período en la cárcel por merodear, mi madre terminó secuestrada, encarcelada y torturada por un asaltante aún no identificado que finalmente intentó sin éxito disolverla en ácido. Creen que él también intentó disolver mi cuerpo. Por eso tengo cicatrices. Es por eso que asusté a esos cazadores hace mucho tiempo: las quemaduras de ácido me hacen parecer un monstruo para los hombres.
 
-Dado que mi verdadera madre aparentemente murió hace mucho tiempo, decidieron que Mother, quienquiera que fuera, no era más que una loca abusadora de niños sin hogar.
+Dado que mi verdadera madre aparentemente murió hace mucho tiempo, decidieron que Madre - quienquiera que fuera - no era más que una loca abusadora de niños sin hogar.
 
 Pero yo sé mejor.
 
